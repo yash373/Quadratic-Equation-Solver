@@ -18,4 +18,4 @@ def solve(a, b, c):
         # No real roots
         return []
 
-print(solve(int(input("Enter Co-efficient of 'a' term: ")),int(input("Enter Co-efficient of 'b' term: ")),int(input("Enter Co-efficient of 'c' term: "))))
+print(solve(float(input("Enter Co-efficient of 'a' term: ")),float(input("Enter Co-efficient of 'b' term: ")),float(input("Enter Co-efficient of 'c' term: "))))
